@@ -44,3 +44,45 @@
         .video-author {
             margin-bottom: 4px;
         }
+
+        .video-time{
+            font-family: Roboto, Arial;
+            font-size: 12px;
+            font-weight: 500px;
+            padding-left: 4px;
+            padding-right: 4px;
+            padding-top: 4px;
+            padding-bottom: 4px;
+            border-radius:2px;
+            background-color: black;
+            color: white;
+            position: absolute;
+            bottom: 8px;
+            right:5px;
+
+        }
+
+        .thumbnail-row{
+            margin-bottom: 12px;
+            position: relative;
+           
+        }
+        .notifications-icon-container{
+            position:relative;
+        }
+        .notifications-icon-count{
+            position: absolute;
+            padding-left: 5px;
+            padding-right: 5px;
+            padding-bottom:2px ;
+            padding-top: 2px;
+            right:-5px;
+            top:-2px;
+            
+            background-color:rgb(200,0,0);
+            color:white;
+            border-radius: 10px;
+            font-size: 11px;
+            font-family: Roboto,Arial;
+            
+        }
